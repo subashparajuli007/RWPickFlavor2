@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   RWPickFlavor lets a user select an ice cream flavor. Enjoy.
                    DESC
 
-  spec.homepage     = "https://github.com/subashparajuli007/RWPickFlavor"
+  spec.homepage     = "https://github.com/subashparajuli007/RWPickFlavor2"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/subashparajuli007/RWPickFlavor.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/subashparajuli007/RWPickFlavor2.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
